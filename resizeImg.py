@@ -1,12 +1,7 @@
-
-import cv2
 from PIL import Image, ImageEnhance
-import numpy as np
 import os
 import tkinter as tk
-from tkinter import ttk
 from tkinter import filedialog as fd
-from tkinter import messagebox as mb
 
 
 class Opxn_AdjImageDim:
